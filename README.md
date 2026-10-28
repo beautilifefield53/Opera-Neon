@@ -231,4 +231,4 @@ Opera Neon is offered as a full free version, allowing users to access all featu
 Take the leap into a new era of web browsing. **Download Opera Neon today and transform your online experience!**
 
 ---
-**Last updated:** 2026-10-28 11:03:10 UTC
+**Last updated:** 2026-10-28 17:59:23 UTC
